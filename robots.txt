@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adityapandeyapk.github.io/bharatmatka/sitemap.xml
